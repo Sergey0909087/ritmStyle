@@ -1,0 +1,41 @@
+body {
+    background: #162831;
+}
+
+.deimg {
+    padding-top: 3%;
+}
+
+a{
+font-family: 'Proxima Nova';
+font-size: 20px;
+color: #FFF;
+}
+
+.self {
+    padding-left: 125px;
+}
+
+.menu{
+    margin-left: 100px;
+    color: white;
+    
+}
+
+.but {
+    background-color: aqua;
+    text-decoration: none;
+    margin-left: 120px;
+    border-radius: 5px;
+    height: 35px;
+    width: 100px;
+}
+
+.b{
+    font-size: 100px;
+}
+
+.Lolaight{
+    padding-left: 708px;
+    font-size: 50px;
+}
